@@ -21,8 +21,6 @@ company -> 8081 port
 Jobs -> 8082 port
 Reviews -> 8083 port
 
-![img.png](img.png)
-
 APIs for reviews in monolithic application:
 http://localhost:8080/companies/2/reviews
 http://localhost:8080/companies/1/reviews
